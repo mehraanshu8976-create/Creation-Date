@@ -1,0 +1,6 @@
+{
+  "name": "VORQEN: Ultimate Battle Arena",
+  "description": "3D mobile and desktop Battle Royale action game set on a multi-biome island with 50-combatant matches, parachute drops, tactical loot, and dynamic safe zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
